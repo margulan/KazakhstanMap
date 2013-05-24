@@ -1,7 +1,7 @@
 Kazakhstan Map
 ============
 
-Vectoral Javascript Kazakhstan Map.
+Kazakhstan Map is shows vectoral map on the web.
 - Bootsrap scripts used for modal.
 
 Browser Support
@@ -10,5 +10,8 @@ Browser compatibility test isn't completed.
 
 License
 ============
-Kazakhstan Map is shows vectoral map on the web>
-Copyright <2013>  Margulan BYEKMURAT
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation.
+
+Copyright 2013.
